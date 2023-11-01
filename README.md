@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ved prakash and I'm a passionate developer, from India</h2>
 
 ###
-<img src="https://cdn.vectorstock.com/i/preview-1x/30/05/web-banner-development-software-and-ui-interface-vector-37813005.jpg/200"/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B2prakash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
