@@ -55,6 +55,12 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
+<a href="https://holopin.io/@b2prakash">
+  <img
+    src="https://holopin.io/api/user/board?user=B2prakash"
+    alt="@B2prakash Holopin board"
+  />
+</a>
 
 
 ###
